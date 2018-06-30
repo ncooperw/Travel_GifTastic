@@ -1,0 +1,31 @@
+body{
+    background-image: url("../images/close-up-desk-hat-346798.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-shadow: 2px 2px 8px #e95420; 
+}
+.holder {
+    float: left;
+    padding: 10px;
+}
+
+.gif {
+    height: 150px;
+    width: auto;
+    
+}
+
+#addLocation {
+    margin-top: 10px;
+}
+
+.button {
+    margin: 5px;
+}
+#giphyLogo {
+    margin-top: 25px;
+}
